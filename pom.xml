@@ -77,7 +77,7 @@ http://maven.apache.org/maven-v4_0_0.xsd">
             <id>jfrog</id>
  
             <url>
-https://trial57pdoi.jfrog.io/artifactory/springmvc-war-maven-local
+https://trial9k2msz.jfrog.io/artifactory/springmvc-war-maven-local
 </url>
  
         </repository>
